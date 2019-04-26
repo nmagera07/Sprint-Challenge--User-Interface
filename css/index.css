@@ -87,6 +87,24 @@ p {
     color: black;
 }
 
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.about-content h2 {
+    margin-right: 710px;
+}
+
+.about-content p {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -100,6 +118,10 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
+}
+
+button {
+    
 }
 
 .middle-content {
