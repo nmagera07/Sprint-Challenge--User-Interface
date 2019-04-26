@@ -34,13 +34,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+To me, semantic HTML is a good practice to use. It is very helpful for Search Optimization Engines (SOE) and screen readers for people with disabilities. It is also good practice because it's a better layout for reading HTML, for any developer in the future that has to read your code.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Two big differences between 'display: block' and 'display: inline', would be, 'display: inline' does not have a set width and height, while 'display: block', you can set a height and width. 
+
+'display: block', forces a line break after the block element, while 'display:inline' you can allow elements to sit to their left or right.
 
 3. What are the 4 areas of the box model?
 
+Content
+Padding
+Margin
+Border
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Cross-axis
+
 5. Explain why git is valuable to a team of developers.
+
+Git is extremely valuable to developers because it allows a team to make adjustments to the same file easily. Or multiple files, if needed. You don't have to constantly compare files with each other, you can just use Git to make changes and upload them to the server for the team to see. A nice feature of this is adding comments. When you add comments, people can see what changes you made and why you made them. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
